@@ -30,4 +30,3 @@ set softtabstop=4
 set shiftwidth=4
 set background=dark
 set t_Co=256
-colorscheme dark-decay
